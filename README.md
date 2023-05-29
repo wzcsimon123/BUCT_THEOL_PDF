@@ -16,4 +16,5 @@
 - [ ] 支持https://course.buct.edu.cn/meol/jpk/course/layout/newpage/*
 - [ ] 美化下载按钮
 - [ ] 下载自定义文档
-## 本脚本使用ChatGpt生成，欢迎完善此脚本
+## 本脚本使用ChatGpt生成，欢迎完善此脚本。
+## 请低调使用脚本中的接口，以防接口被封
