@@ -7,8 +7,8 @@
 
 ## 使用方式
 
-添加油猴脚本，点击右下角的下载按钮即可。
-[https://greasyfork.org/zh-CN/scripts/469075-buct-theol-pdf]()
+添加[油猴脚本](https://greasyfork.org/zh-CN/scripts/469075-buct-theol-pdf)，点击右下角的下载按钮即可。
+
 ## TODO
 
 - [ ] 自动重命名文档
